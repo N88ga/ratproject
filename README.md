@@ -1,5 +1,5 @@
 # ratproject
-Daniil/Coder
+Daniil
 
 
 **Python-разработчик/virus maker** | 2-3 года |
